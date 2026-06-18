@@ -71,14 +71,14 @@ else:
 #EJERCICIO: TIENDA DE LIBROS 
 print("Escriba los siguientes datos del libro")
 nombre = input("Escriba el nombre del libro: ")
-id = int(input("Escriba el ID del libro: "))
+id_libro = int(input("Escriba el ID del libro: "))
 precio = float(input("Escriba el precio del libro: "))
 enviogratuito = input("indique si el envio es gratuito (true/false): ")
 
 if enviogratuito == "true": 
     enviogratuito = True
 elif enviogratuito == "false":
-    enviogratuito == False 
+    enviogratuito = False 
 else: 
     enviogratuito = "El valor es incorrecto, debe escribir true/false"
 print(f'''
