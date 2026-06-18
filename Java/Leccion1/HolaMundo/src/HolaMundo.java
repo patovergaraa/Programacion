@@ -1,4 +1,9 @@
 
+import java.util.Scanner;
+
+
+
+
 public class HolaMundo {
 
     public static void main(String[] args) {
@@ -16,7 +21,7 @@ public class HolaMundo {
          */
 
         //Var - inferencia de tipos en Java
-        var miVariableEntera2 = 10;
+        /*var miVariableEntera2 = 10;
         var miVariableCadena2 = "Seguimos estudiando";
         System.out.println("miVariableEntera2 - " + miVariableEntera2);
         System.out.println("miVariableCadena2 - " + miVariableCadena2);
@@ -35,8 +40,20 @@ public class HolaMundo {
         
         //Ejercicio: Caracteres Especiales con Java
         var nombre = "Natalia";
-        System.out.println("\n Nueva linea: \n" + nombre);//Diagonal inversa y letra n
-        System.out.println("Tabulador: \t" + nombre);
-        System.out.println("\t.:MENÚ:.");
+        System.out.println("\nNueva linea: \n" + nombre);//Diagonal inversa y letra n
+        System.out.println("Tabulador: \t" + nombre);//Tabulador
+        System.out.println("\t\t.:MENÚ:.");
+        System.out.println("Retroceso: \b\b" + nombre);//Caracter de retroceso
+        System.out.println("Comillas simples: \'" + nombre + "\'");
+        System.out.println("Comillas dobles: \"" + nombre + "\"");*/
+        
+        //Clase Scanner
+        Scanner entrada = new Scanner(System.in);
+        System.out.println("Digite su nombre: ");
+        var usuario2 = entrada.nextLine();
+        System.out.println("usuario2 = " + usuario2);
+        System.out.println("Escriba el titulo: ");
+        var titulo2 = entrada.nextLine();
+        System.out.println("Resultado: "+titulo2+" "+usuario2);        
     }
 }
