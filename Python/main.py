@@ -1,3 +1,7 @@
+# - - - - - - - - - - - - - - - - - - 
+# CLASE 2: Variables en Python
+# - - - - - - - - - - - - - - - - - - 
+
 miVariable = 3
 print(miVariable)
 miVariable = "Hola a todos los estudiantes de la tecnicatura"
@@ -11,6 +15,10 @@ print(id(x))
 # Las literales se escriben x528, la variable y = x272, la variable z = x592
 print(id(y))
 print(id(z))
+
+# - - - - - - - - - - - - - - - - - - 
+# CLASE 3: Tipos de datos en Python
+# - - - - - - - - - - - - - - - - - - 
 
 #Tipos int, float, String, Bool
 x = 10
@@ -57,3 +65,193 @@ numero1 = int(input("Escribe el primer numero: "))
 numero2 = int(input("Escribe el segundo numero: "))
 resultado = numero1 + numero2
 print("El resultado de la suma es: ", resultado)
+
+# - - - - - - - - - - - - - - - - - - 
+# CLASE 4: 
+# - - - - - - - - - - - - - - - - - - 
+
+#OPERADORES ARIMÉTICOS
+operandoA = 8 
+operandoB = 5 
+suma = operandoA + operandoB
+#print("Resultado de la suma: ", suma)
+print(f"El resultado de la suma es: {suma}")
+
+resta = operandoA - operandoB
+print(f"El resultado de la resta es: {resta}")
+
+multiplicacion = operandoA * operandoB
+print(f"El resultado de la multiplicacion es: {multiplicacion}")
+
+division = operandoA / operandoB
+print(f"El resultado de la division es: {division}")
+division = operandoA // operandoB
+print(f"El resultado de la division (int) es: {division}")
+modulo = operandoA % operandoB
+print(f"El resultado de la division o residuo (modulo) es: {modulo}")
+
+exponente = operandoA ** operandoB
+print(f"El resultado del exponente es: {exponente}")
+
+#RECTÁNGULO
+
+alto = int(input("proporciona el alto del rectangulo: "))
+ancho = int(input("proporciona el ancho del rectangulo: "))
+area = alto * ancho
+perimetro = (alto + ancho) * 2
+print("Area: ", area)
+print("perimetro: ", perimetro)
+
+
+#OPERADORES DE ASIGNACIÓN Y COMPARACIÓN
+miVariable3 = 10
+print(miVariable3)
+
+#REASIGNACIÓN
+miVariable3 = miVariable3 + 1
+print(miVariable3)
+
+miVariable3 += 1
+print(miVariable3)
+
+miVariable3 -= 2
+print(miVariable3)
+
+miVariable3 *= 3 
+print(miVariable3)
+
+miVariable3 /= 2
+print(miVariable3)
+
+#COMPARACION 
+d = 4
+b = 4
+
+resultado = d == b #Comprobamos si son iguales
+print(resultado)
+
+#Operador diferente 
+resultado = d != b
+print(resultado)
+
+#Operador mayor que
+resultado = d > b 
+print(resultado)
+
+#Operador menor que
+resultado = d < b 
+print(resultado) 
+
+#Operador menor o igual que 
+resultado = d <= b 
+print(resultado)
+
+
+
+#EJERCICIO1 
+a = int(input("Escriba un número: "))
+print(f"El residuo de la division es: {a % 2}")
+if a % 2 == 0:
+    print(f"El valor de a es: {a} es un numero PAR")
+else:
+    print(f"El valor de a es: {a} es un numero IMPAR")
+
+
+
+#EJERCICIO2
+edadAdulto = 18
+edadpersona = int(input("Escriba su edad: "))
+if edadpersona >= edadAdulto:
+    print(f"Su edad es: {edadAdulto}, es mayor de edad")
+else: 
+    print(f"Su edad es: {edadpersona}, es menor de edad")
+
+# - - - - - - - - - - - - - - - - - - 
+# CLASE 5: 
+# - - - - - - - - - - - - - - - - - - 
+
+#OPERADORES LOGICOS (and-or:binarios(dos numeros) / not:no binario(un numero))
+
+a = False
+b = True
+resultado = a and b 
+print(resultado)
+
+#OR
+
+resultado = a or b 
+print(resultado)
+
+#NOT 
+
+resultado = not a 
+print(resultado)
+
+#VALOR DENTRO DE UN RANGO
+
+valor = int(input("Escriba un numero dentro del rango 0 al 5: "))
+valorminimo = 0
+valormaximo = 5 
+dentrorango = (valor >= valorminimo and valor <= valormaximo)
+
+if dentrorango:
+    print(f"El valor {valor} esta dentro del rango")
+else: 
+    print (f"El valor {valor} no esta dentro del rango")
+
+
+
+#EJERCICIO CON OR 
+
+vacaciones = False 
+diadedescanso = False
+if vacaciones or diadedescanso:
+    print("Puede asistir al juego")
+else:
+    print("Tiene trabajo que hacer")
+
+#EJERCICIO: RANGO ENTRE 20 Y 30 AÑOS
+
+edad = int(input("Escriba su edad: "))
+veinte = edad >= 20 and edad <30
+print(veinte)
+treinta = edad >= 30 and edad < 40 
+print(treinta)
+
+if veinte or treinta: 
+    print("Estas dentro del rango de los (20\"0) a (30\"0) años")
+else: 
+    print("No estas dentro del rango de los (20\"0) a (30\"0) años")
+
+
+
+#EJERCICIO1: EL MAYOR DE DOS NUMEROS
+
+numero1 = int(input("Escriba el valor para el numero 1: "))
+numero2 = int(input("Escriba el valor para el numero 2: "))
+
+if numero1 > numero2:
+    print("El numero 1 es mayor")
+else: 
+    print("El numero 2 es mayor")
+
+
+#EJERCICIO: TIENDA DE LIBROS 
+print("Escriba los siguientes datos del libro")
+nombre = input("Escriba el nombre del libro: ")
+id = int(input("Escriba el ID del libro: "))
+precio = float(input("Escriba el precio del libro: "))
+enviogratuito = input("indique si el envio es gratuito (true/false): ")
+
+if enviogratuito == "true": 
+    enviogratuito = True
+elif enviogratuito == "false":
+    enviogratuito == False 
+else: 
+    enviogratuito = "El valor es incorrecto, debe escribir true/false"
+print(f'''
+            nombre: {nombre}
+            id: {id}
+            precio: {precio}
+            envio gratuito?: {enviogratuito} 
+''')
