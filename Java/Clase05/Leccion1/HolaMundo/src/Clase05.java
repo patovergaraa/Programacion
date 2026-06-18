@@ -98,5 +98,28 @@ public class Clase05 {
         System.out.println("numFloat = " + numFloat);
         var numDouble = 10.0; // Automáticamente es de tipo double
         System.out.println("numDouble = " + numDouble);
+        
+        //Tipos primitivos char
+        char miVariableChar = 'a';
+        System.out.println("miVariableChar = " + miVariableChar);
+                
+        char varCaracter = '\u0024'; // Indicamos a Java la asignación con el código Unicode
+        System.out.println("varCaracter = " + varCaracter);
+        char varCaracterDecimal = 36; // Valor decimal del juego de caracteres Unicode
+        System.out.println("varCaracterDecimal = " + varCaracterDecimal);
+        char varCaracterSimbolo = '$'; // Un carácter especial
+        System.out.println("varCaracterSimbolo = " + varCaracterSimbolo);
+
+        var varCaracter1 = '\u0024'; // Inferencia de tipo
+        System.out.println("varCaracter1 = " + varCaracter1);
+        var varCaracterDecimal1 = (char)36; // Cast de int a char
+        System.out.println("varCaracterDecimal1 = " + varCaracterDecimal1);
+        var varCaracterSimbolo1 = '$';
+        System.out.println("varCaracterSimbolo1 = " + varCaracterSimbolo1);
+        int varEnteroChar = '$';
+        System.out.println("varEnteroChar = " + varEnteroChar);
+        int caracterChar = 'b';
+        System.out.println("caracterChar = " + caracterChar);
+        
     }
 }
