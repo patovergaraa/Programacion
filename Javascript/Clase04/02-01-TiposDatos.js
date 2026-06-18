@@ -1,3 +1,5 @@
+// Clase 3 Tipos de Datos Parte 1
+
 // Tipos de Datos de JavaScript
 /*
 La sintaxis en lo que es comentrios
@@ -24,6 +26,10 @@ var objeto = {
     telefono : '2948323232'
 }
 console.log(typeof objeto);
+
+/*
+Clase 4 Tipos de Datos Parte 2
+*/
 
 //Tipo de dato Boolean
 var bandera = true;
