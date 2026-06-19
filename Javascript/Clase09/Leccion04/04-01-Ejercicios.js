@@ -153,4 +153,14 @@ switch (days) {
     default:
         break;
 }
+//Esta es la opción mejorada
 
+let days2 = ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'];
+function getDay(n){
+    if (n < 1 || n > 7){
+        throw new Error('out of range');
+    }
+
+    return days2[n-1];
+}
+console.log(getDay(3)); // Miercoles
