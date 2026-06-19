@@ -1,5 +1,5 @@
 # - - - - - - - - - - - - - - - - - - 
-# CLASE 5: 
+# CLASE 5: Operadores en Python Parte 2
 # - - - - - - - - - - - - - - - - - - 
 
 #OPERADORES LOGICOS (and-or:binarios(dos numeros) / not:no binario(un numero))
