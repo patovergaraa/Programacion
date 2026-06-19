@@ -111,3 +111,46 @@ switch(mes){ //No solo se pueden utilizar número, también cadenas
         estacion = "Valor incorrecto";
 }
 console.log("Bienvenido a la estación de: "+estacion);
+
+// Clase 09
+
+/*
+const se utiliza para valores constantes que no pueden ser reasignadas
+*/
+
+const fechaNacimiento = 2006;
+console.log(fechaNacimiento);
+
+//fechaNacimiento = 2003;
+//console.log(fechaNacimiento); //solo se ejecuta el console anterior
+
+//Evitar repetir tu código
+//Dry don't repeat yourself
+
+let days = 1;
+switch (days) {
+    case 1:
+        console.log('hoy es Lunes');
+        break;
+    case 2:
+        console.log('hoy es Martes');
+        break;
+    case 3:
+        console.log('hoy es Miercoles');
+        break;
+    case 4:
+        console.log('hoy es Jueves');
+        break;
+    case 5:
+        console.log('hoy es Viernes');
+        break;
+    case 7:
+        console.log('hoy es Sábado');
+        break;
+    case 'Domingo':
+        console.log('hoy es ' + days);
+        break;
+    default:
+        break;
+}
+
