@@ -67,7 +67,7 @@ resultado = numero1 + numero2
 print("El resultado de la suma es: ", resultado)
 
 # - - - - - - - - - - - - - - - - - - 
-# CLASE 4: 
+# CLASE 4: Operadores en Python Parte 1
 # - - - - - - - - - - - - - - - - - - 
 
 #OPERADORES ARIMÉTICOS
@@ -167,7 +167,7 @@ else:
     print(f"Su edad es: {edadpersona}, es menor de edad")
 
 # - - - - - - - - - - - - - - - - - - 
-# CLASE 5: 
+# CLASE 5: Operadores en Python Parte 2
 # - - - - - - - - - - - - - - - - - - 
 
 #OPERADORES LOGICOS (and-or:binarios(dos numeros) / not:no binario(un numero))
@@ -295,3 +295,67 @@ condicion = False
 # else: 
 # print("Condicion falsa")
 print("Condicion Verdadera") if condicion else print("Condicion falsa")
+
+# - - - - - - - - - - - - - - - - - - 
+# CLASE 7: Ciclo While y for
+# - - - - - - - - - - - - - - - - - - 
+
+#CICLO WHILE (MIENTRAS O DURANTE)
+
+contador = 0 
+
+while contador < 3:
+    print("Ejecutamos nuestro ciclo while", contador)
+    contador += 1
+else: 
+    print("Fin del ciclo while")
+
+#IMPRIMIR NUMEROS DEL 0 AL 5 CON EL CICLO WHILE
+
+maximo = 5 
+contador = 0 
+while contador <= maximo: 
+    print(contador)
+    contador += 1 
+
+minimo = 1 
+contador = 5
+while contador >= minimo:
+    print(contador)
+    contador -= 1
+
+#CICLO FOR 
+
+cadena = "Hola"
+for letra in cadena:
+    print(letra)
+else: 
+    print("Fin del ciclo for")
+
+#PALABRA RESERVADA BREAK 
+
+for letra in "ARGENTINA":
+    if letra == "A":
+        print(f"Letra encontrada : {letra}")
+        break
+else: 
+    print("Fin del ciclo for")
+
+#PALABRA RESERVADA CONTINUE
+
+for i in range(6): 
+    if i % 2 == 0:
+        print(f"valor: {i}")
+
+for i in range(6):
+    if i % 2 != 0:
+        continue 
+    print (f"valor: {i}")
+    
+# - - - - - - - - - - - - - - - - - - 
+# CLASE 8: Ejercicios y Mucha práctica
+# - - - - - - - - - - - - - - - - - - 
+
+# - - - - - - - - - - - - - - - - - - 
+# CLASE 9: Ejercicios en Python grupal
+# - - - - - - - - - - - - - - - - - - 
