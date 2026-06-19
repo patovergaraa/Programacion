@@ -1,0 +1,323 @@
+commit 1cb27d6979fa66196e1f605efdc1e4d75b927523
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Fri Jun 19 00:33:47 2026 -0300
+
+    Actualizo segun lo visto en las Clase07 y Clase08
+
+commit 8b97c5711f9d72d7647effe61ee6036c19654def
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 22:53:06 2026 -0300
+
+    Actualizo lo que vimos en la Clase08
+
+commit df0f0d9aa2e0a8dbbd3cbef9cd816d29c3d43333
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 22:45:26 2026 -0300
+
+    Muevo archivo a carpeta nueva Clase08
+
+commit 1b2df329fd72efa0336dd3e530a6411663b82b6e
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 22:43:31 2026 -0300
+
+    Agregamos este archivo js a nueva carpeta Clase08
+
+commit 35afd77060b927429b02e93001b52615679755c8
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 22:36:22 2026 -0300
+
+    Agrego nuevo archivo js y carpeta Leccion04, tambien lo visto en Clase07
+
+commit b6607343a64c5f94cde835140056ff29850ddf1b
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 22:35:08 2026 -0300
+
+    Agrego lo visto en Clase07
+
+commit 5c5524eccedbbc800c14c542f139c9de862c4ea8
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 22:34:28 2026 -0300
+
+    Modificamos txt seguno lo visto en Clase07
+
+commit 61d1f18f73ac9aa16353c97485c445f337e0347c
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 22:33:59 2026 -0300
+
+    Elimino archivo
+
+commit 82ad9b418e61c70a70e96c8d74dcbcb00d2701eb
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 21:10:41 2026 -0300
+
+    Elimino archivo txt
+
+commit a23126ef0ac47183d8f9f071d66cdfb5e87f6382
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 21:10:14 2026 -0300
+
+    Cambio de lugar el archivo txt
+
+commit f066fe7fa58d15af9e58b9a7ede0566b6344b9a0
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 21:09:54 2026 -0300
+
+    Agrego lo visto en la Clase06
+
+commit beae9f678d051f29fb4d7dd8609de44e98faf145
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 21:09:45 2026 -0300
+
+    Agrego lo visto en la Clase05
+
+commit 0f85d9c54d70492bb61122b8069ad77465269630
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 20:51:01 2026 -0300
+
+    Elimino archivo txt
+
+commit 4a33d7ad0a28b8a5e51b60e7acc98ce138bc599a
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 20:14:12 2026 -0300
+
+    Modifico historia.txt
+
+commit 116e2e5f3f6d881e4b1fba257c0d6f08bd2eebed
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 20:11:21 2026 -0300
+
+    Cambio de lugar el archivo historia.txt
+
+commit f993136219bc53cb89d5924749523dfa08865259
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 20:05:52 2026 -0300
+
+    Agrego la Clase07 al repo
+
+commit 75650a2aed9d8c400e8a73a4870a0d47b2d87453
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 19:27:06 2026 -0300
+
+    Modifico algunas cosas para ordenar las carpetas
+
+commit 218e6e9cb4276adc0b443ae8a8772955acdc8839
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 19:26:28 2026 -0300
+
+    Modifico segun lo visto en la Clase07
+
+commit 23f1656fc44587945089a1de17ee4cad1e6f0822
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 19:25:57 2026 -0300
+
+    Modifico el archivo segun lo visto en la Clase07
+
+commit 4f3ca162c3c511bb3814bf1eba3f5453fa4ecaff
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 05:48:00 2026 -0300
+
+    Agrego carpeta y realizo tarea de Clase06
+
+commit 108cb6c61663c581f4cbe7f129c9e9a784c4cb59
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 05:41:36 2026 -0300
+
+    Realizo tarea de Clase06 de Java
+
+commit cd691eec90f5ad6202a428f5e883400cf60c4322
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 05:19:59 2026 -0300
+
+    Agrego lo visto en Clase06
+
+commit 913eb7a02df8d36da6c99a90ddc531971f23fe91
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 05:19:45 2026 -0300
+
+    Cambio de nombre Clase06
+
+commit dd21ae99048396baf5d6fbca8b7fb73703c13444
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 05:14:52 2026 -0300
+
+    Agrego lo visto en la Clase06
+
+commit 9228a7444f2a359f19aef0362fe571296b7d8148
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 04:44:43 2026 -0300
+
+    Agrego Clase05 y modificamos Clase04 de Java
+
+commit 9ae1801c71de29ef2635a4dc5f9780145a02726b
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 04:42:35 2026 -0300
+
+    Agregamos la Clase06 de Python
+
+commit 9221e2096faa80a161856b981b7443b8c9ea278e
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 04:07:59 2026 -0300
+
+    Arreglo Clase05 de Java
+
+commit d5f237703383f6e32093ee643e900ae3f1072087
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 03:49:22 2026 -0300
+
+    Corrigo errores de codigo
+
+commit d9508eea948f4c1babf1737fb1f7f83e4379ee81
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 03:43:30 2026 -0300
+
+    Agregamos la Clase05
+
+commit d51845cf8a5123ee5efaf761b59517698fa40c95
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 03:43:08 2026 -0300
+
+    Agregamos la Clase04
+
+commit 44e68bc024fd4ab4b779da648ff7b4cc915f74bd
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 03:42:36 2026 -0300
+
+    Modificamos el archivo main.py de todas las clases
+
+commit b12a3e092719cd73588cbda43d79c50d6a4ff14a
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 03:08:06 2026 -0300
+
+    Agrego nuevo archivo txt a Clase05
+
+commit 7cbdeb354f62488e3dbbf41bfe4e0fef2e7eb9e6
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 03:00:46 2026 -0300
+
+    Agrego index.html Clase05
+
+commit d592c4c70bd1417a8f91807a3f5ba7a9fa8101a5
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 03:00:19 2026 -0300
+
+    Agrego Clase05
+
+commit 324a7788b154ce0a27d6145212a061c06dcc559f
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:59:58 2026 -0300
+
+    Modifico la Clase04
+
+commit 9d711bd411f3fbdd5d08d3e4d24e04b15065736a
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:59:33 2026 -0300
+
+    Modifico la Clase03
+
+commit b1518327bf108b950652b1107de87190814965a2
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:36:10 2026 -0300
+
+    Agrego nuevo README.md a Clase04
+
+commit 7ec9325b4488c123447726ca5b4c100aa5b2ce1b
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:35:49 2026 -0300
+
+    Modifico README.md
+
+commit cf3b737c2a2516831c5165f2e76d633e9dec7641
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:21:00 2026 -0300
+
+    Agrego linea de codigo en historia.txt
+
+commit 0ba5ceb5e8314bcc125840877a4dfa5a423d1a75
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:19:19 2026 -0300
+
+    Muevo historia.txt a Clase04
+
+commit 065af50a5cf951e6cd346cb8d86b8e85983f9c4a
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:16:41 2026 -0300
+
+    Agrego nuevo archivo de texto por la Clase04
+
+commit 34d7bd8b446928102e94643ce11a73f07a9d76d0
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 02:04:45 2026 -0300
+
+    Agrego lo visto en la Clase04
+
+commit eb3c875fe8682d9c76d9b68a06a52d149dae2171
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Thu Jun 18 00:58:45 2026 -0300
+
+    Organizo proyectos por clases
+
+commit 29669f28c0b8455ae7d4774403d4a8497fd0418a
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 22:31:17 2026 -0300
+
+    Modificacion
+
+commit 0ec84aa874175bfbc847ce966d60def5d2fc350c
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 21:50:34 2026 -0300
+
+    Modificacion en HolaMundo
+
+commit ab4ab0ac860aa08ef07fc4c9c95022a2b4153baf
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 21:12:41 2026 -0300
+
+    Agrego carpeta Leccion02
+
+commit e419687789b330cc86d9335031a3ac5e4e6d949f
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 20:29:57 2026 -0300
+
+    Modifique el archivo
+
+commit 336c946d0dcbabc65698c04c319f7a6ecc810420
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 20:00:21 2026 -0300
+
+    Actualizar Ejercicio2
+
+commit f92500be997e651f007106ee26af1903db8bcb96
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 19:54:12 2026 -0300
+
+    Agregar Ejercicio2
+
+commit 17383d425217e9b93c5496b4ca0ef85eda62395b
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 19:46:39 2026 -0300
+
+    Eliminar Laboratorios2Variables1
+
+commit 5bc2fcc3fdc46c3e002e6032f42962002a599a89
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 19:44:56 2026 -0300
+
+    Agregar ejercicios y actualizar archivos
+
+commit 063d80e10deaa759464e85b8342f27180e7e220f
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 19:35:43 2026 -0300
+
+    Cree carpeta actividades para los ejercicios
+
+commit 0e949c733b929c6c5d1187db546473925af94aa3
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Wed Jun 17 03:51:58 2026 -0300
+
+    mi primer comentario en git
+
+commit 5204fb97afaf9324d5365cdd334ded575af1bb1c
+Author: Patricio Vergara <patoluks31@gmail.com>
+Date:   Tue Jun 16 20:04:53 2026 -0300
+
+    Primer commit de Programacion
