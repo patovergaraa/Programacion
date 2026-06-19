@@ -1,5 +1,5 @@
 # - - - - - - - - - - - - - - - - - - 
-# CLASE 4: 
+# CLASE 4: Operadores en Python Parte 1
 # - - - - - - - - - - - - - - - - - - 
 
 #OPERADORES ARIMÉTICOS
