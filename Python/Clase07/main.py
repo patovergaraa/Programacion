@@ -9,7 +9,7 @@ contador = 0
 while contador < 3:
     print("Ejecutamos nuestro ciclo while", contador)
     contador += 1
-else: 
+#else: 
     print("Fin del ciclo while")
 
 #IMPRIMIR NUMEROS DEL 0 AL 5 CON EL CICLO WHILE
@@ -31,7 +31,7 @@ while contador >= minimo:
 cadena = "Hola"
 for letra in cadena:
     print(letra)
-else: 
+#else: 
     print("Fin del ciclo for")
 
 #PALABRA RESERVADA BREAK 
